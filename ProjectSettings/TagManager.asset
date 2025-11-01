@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Enemy
+  - Enemy Spawn
+  - Mob
+  - Trap
+  - RulesLvl
+  - Boss
+  - Audio
+  - Pause
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - UI NEW
+  - Tanah
+  - Wall
+  - BossEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3418062011
+    locked: 0
+  - name: POHON
+    uniqueID: 1944233901
+    locked: 0
+  - name: TANAH
+    uniqueID: 2106218819
+    locked: 0
+  - name: OBJECT
+    uniqueID: 2778824705
+    locked: 0
+  - name: PLAYER
+    uniqueID: 3969201265
+    locked: 0
